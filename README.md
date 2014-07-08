@@ -12,6 +12,7 @@ Something you have to know, when you want to learn web developer.
 
 ##Basic
 
+ * linunx command line, [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
  * git, [Learn git branch](http://pcottle.github.io/learnGitBranching/)
  * node.js, [Learn Node.js (free course)](https://www.codeschool.com/courses/real-time-web-with-node-js)
  * jade, [jade template for html](http://jade-lang.com/)
