@@ -18,6 +18,10 @@ Something you have to know, when you want to learn web developer.
 
 ##Middle
 
- * angular.js, [Angular.js 教學資源](http://curah.microsoft.com/73909/angularjs-%E5%88%9D%E5%AD%B8%E8%80%85%E7%9B%B8%E9%97%9C%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90)
+ * angular.js, 
+   * [Angular.js 教學資源](http://curah.microsoft.com/73909/angularjs-%E5%88%9D%E5%AD%B8%E8%80%85%E7%9B%B8%E9%97%9C%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90)
+   * [AngularJS 簡體中文](https://github.com/peiransun/angularjs-cn)
  * coffeeScript, [The Little Book on CoffeeScript中文版](http://island205.github.io/coffeescript-cookbook.github.com/)
- * 
+
+##Other
+ * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
