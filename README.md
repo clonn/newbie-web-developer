@@ -26,6 +26,7 @@ Something you have to know, when you want to learn web developer.
    * [AngularJS 簡體中文](https://github.com/peiransun/angularjs-cn)
  * coffeeScript, [The Little Book on CoffeeScript中文版](http://island205.github.io/coffeescript-cookbook.github.com/)
  * node.js, [stream, flow control ](http://nodeschool.io/)
+ * promise, [Asynchronous Control Flow with Promises](http://howtonode.org/promises)
 
 ##Other
  * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
