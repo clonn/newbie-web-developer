@@ -29,4 +29,5 @@ Something you have to know, when you want to learn web developer.
  * promise, [Asynchronous Control Flow with Promises](http://howtonode.org/promises)
 
 ##Other
+ * [前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/edit)
  * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
